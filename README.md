@@ -1,4 +1,4 @@
-# 📝 Task ManagementS
+# 📝 Task Management
 
 A full stack Task Management web application that allows users to create, view, update, and delete tasks.  
 The project demonstrates complete CRUD functionality using REST APIs, persistent database storage, and a clean responsive UI.
