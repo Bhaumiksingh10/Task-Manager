@@ -64,6 +64,9 @@ node server.js
 
 Server will run at
 http://localhost:5000
+
+## 📸 Project Preview
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/045c0153-e4f5-4873-8000-6befb57d3da4" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/705d1ece-f198-413c-be9f-cbbfdaf296ef" />
